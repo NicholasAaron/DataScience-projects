@@ -5,9 +5,10 @@
 # Nicholas Lima
 
 
-My credentials include a bachalors degree in Biomedical Engineering (Universidade FUMEC)
+My credentials include a bachalors degree in Biomedical Engineering (Universidade FUMEC).
+Currently in a graduate study program at PUC Minas studying Data Science and Big Data.
 
-**Background in:** Biomedical Engineering and Python. Currently on a graduate study program at PUC Minas studying Data Science and Big Data.
+**Background in:** Biomedical Engineering, Mining Instrumentation and Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/nicholima)
