@@ -8,7 +8,8 @@
 My credentials include a bachalors degree in Biomedical Engineering (Universidade FUMEC).
 Currently in a graduate study program at PUC Minas studying Data Science and Big Data.
 
-**Background in:** Biomedical Engineering, Mining Instrumentation and Python.
+**Background in:** Biomedical Engineering, Automation & Industrial Instrumentation
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/nicholima)
